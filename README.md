@@ -3,13 +3,13 @@
 
 ## Overview
 
-Open Critter is an open source UCI chess engine written in Pascal by Richard Vida.
+*Open Critter* is an open source UCI chess engine written in Pascal by Richard Vida.
 
 ## History
 
 ### 1.1.38
 
-Open Critter 1.1.37, retouched in order to be compiled for Linux with the Free Pascal compiler.
+Compilation for Linux with the Free Pascal compiler.
 
 * Fix compilation errors
 * Fix memory leaks
