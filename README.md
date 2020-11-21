@@ -9,7 +9,7 @@
 
 ### 1.1.38
 
-Compilation for Linux with the Free Pascal compiler.
+Compilation for Linux with FPC.
 
 * Fix compilation errors
 * Fix memory leaks
